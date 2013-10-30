@@ -1,0 +1,1137 @@
+; Thu Jun 02 22:13:29 CEST 2011
+; 
+;+ (version "3.4.6")
+;+ (build "Build 613")
+
+([Actualidad] of  Tematica
+)
+
+([Amadeus] of  Pelicula
+
+	(ActoresP [ia2_Class20015])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class20016])
+	(Duracion 180)
+	(EpocaP [ia2_Class100])
+	(GeneroP [ia2_Class54])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Amadeus"))
+
+([Arte] of  Tematica
+)
+
+([Ciencia] of  Tematica
+)
+
+([Economia] of  Tematica
+)
+
+([Historia] of  Tematica
+)
+
+([ia2_Class0] of  Serie
+
+	(ActorS
+		[ia2_Class20]
+		[ia2_Class2])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class1])
+	(Duracion 45)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class47])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "House"))
+
+([ia2_Class1] of  desconocido
+
+	(NombreD "Unknown"))
+
+([ia2_Class10] of  culto
+
+	(NombreD "jeronimooooooo"))
+
+([ia2_Class100] of  Epoca
+
+	(decada "1970"))
+
+([ia2_Class10000] of  Pelicula
+
+	(ActoresP [ia2_Class10002])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10001])
+	(Duracion 180)
+	(EpocaP [ia2_Class34])
+	(GeneroP [ia2_Class47])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Cadena perpetua"))
+
+([ia2_Class10001] of  famoso
+
+	(NombreD "Frank Darabont"))
+
+([ia2_Class10002] of  Actor
+
+	(NombreA "Morgan Freeman"))
+
+([ia2_Class10003] of  Pelicula
+
+	(ActoresP [ia2_Class10005])
+	(CalificacionP [ia2_Class30])
+	(DirectorP [ia2_Class41])
+	(Duracion 150)
+	(EpocaP [ia2_Class34])
+	(GeneroP [ia2_Class56])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Pulp Fiction"))
+
+([ia2_Class10005] of  Actor
+
+	(NombreA "John Travolta"))
+
+([ia2_Class10006] of  Pelicula
+
+	(ActoresP [ia2_Class10008])
+	(CalificacionP [ia2_Class30])
+	(DirectorP [ia2_Class10007])
+	(Duracion 180)
+	(EpocaP [ia2_Class44])
+	(GeneroP [ia2_Class50])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class63])
+	(Titulo "shichinin no samurai"))
+
+([ia2_Class10007] of  culto
+
+	(NombreD "Akira Kurosawa"))
+
+([ia2_Class10008] of  Actor
+
+	(NombreA "Toshiro Mifune"))
+
+([ia2_Class10009] of  Pelicula
+
+	(ActoresP [ia2_Class20011])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10010])
+	(Duracion 120)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class56])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class58])
+	(Titulo "Laberinto del fauno"))
+
+([ia2_Class10010] of  alternativo
+
+	(NombreD "Guillermo del toro"))
+
+([ia2_Class10011] of  Actor
+
+	(NombreA "gyver"))
+
+([ia2_Class10012] of  Serie
+
+	(ActorS [ia2_Class10014])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class10013])
+	(Duracion 30)
+	(EpocaS [ia2_Class34])
+	(GeneroS [ia2_Class48])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "WALKER TEXAS RANGEr"))
+
+([ia2_Class10013] of  culto
+
+	(NombreD "cabezon"))
+
+([ia2_Class10014] of  Actor
+
+	(NombreA "CHUCK NORRIS"))
+
+([ia2_Class10015] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class10016])
+	(Duracion 100)
+	(EpocaD [ia2_Class46])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Economia])
+	(Titulo "Inside Job"))
+
+([ia2_Class10016] of  famoso
+
+	(NombreD "economist"))
+
+([ia2_Class10017] of  Documental
+
+	(CalificacionD [ia2_Class36])
+	(DirectorD [ia2_Class10018])
+	(Duracion 45)
+	(EpocaD [ia2_Class34])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Historia])
+	(Titulo "Documental de la 2"))
+
+([ia2_Class10018] of  alternativo
+
+	(NombreD "siesta"))
+
+([ia2_Class10019] of  Pelicula
+
+	(ActoresP [ia2_Class87])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10020])
+	(Duracion 180)
+	(EpocaP [ia2_Class46])
+	(GeneroP [ia2_Class52])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Origen"))
+
+([ia2_Class10020] of  culto
+
+	(NombreD "christofer nolan"))
+
+([ia2_Class10021] of  Pelicula
+
+	(ActoresP [ia2_Class27])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10])
+	(Duracion 150)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class50])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Indiana jones"))
+
+([ia2_Class10022] of  Pelicula
+
+	(ActoresP [ia2_Class91])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10020])
+	(Duracion 130)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class50])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "la busqueda"))
+
+([ia2_Class10023] of  Pelicula
+
+	(ActoresP [ia2_Class22])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class86])
+	(Duracion 150)
+	(EpocaP [ia2_Class46])
+	(GeneroP [ia2_Class50])
+	(IdiomaP [ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "RED"))
+
+([ia2_Class10024] of  Pelicula
+
+	(ActoresP [ia2_Class10014])
+	(CalificacionP [ia2_Class30])
+	(DirectorP [ia2_Class1])
+	(Duracion 180)
+	(EpocaP [ia2_Class46])
+	(GeneroP [ia2_Class50])
+	(IdiomaP [ia2_Class71])
+	(NacionalidadP [ia2_Class58])
+	(Titulo "Programacion a contrarreloj"))
+
+([ia2_Class10025] of  Pelicula
+
+	(ActoresP [ia2_Class8])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class10])
+	(Duracion 150)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class50])
+	(IdiomaP [ia2_Class74])
+	(NacionalidadP [ia2_Class63])
+	(Titulo "This is Sparta"))
+
+([ia2_Class103] of  Pelicula
+
+	(ActoresP [ia2_Class19])
+	(CalificacionP [ia2_Class36])
+	(DirectorP [ia2_Class37])
+	(Duracion 100)
+	(EpocaP [ia2_Class44])
+	(GeneroP [ia2_Class49])
+	(IdiomaP [ia2_Class71])
+	(NacionalidadP [ia2_Class58])
+	(Titulo "La marca del zorro"))
+
+([ia2_Class16] of  Actor
+
+	(NombreA "Penelope Cruz"))
+
+([ia2_Class18] of  Actor
+
+	(NombreA "Johnny dept"))
+
+([ia2_Class19] of  Actor
+
+	(NombreA "Antonio Banderas"))
+
+([ia2_Class2] of  Actor
+
+	(NombreA "Dr. House"))
+
+([ia2_Class20] of  Actor
+
+	(NombreA "Al Pacino"))
+
+([ia2_Class20011] of  Actor
+
+	(NombreA "Maribel Verdu"))
+
+([ia2_Class20012] of  Pelicula
+
+	(ActoresP [ia2_Class20014])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class20013])
+	(Duracion 120)
+	(EpocaP [ia2_Class44])
+	(GeneroP [ia2_Class48])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "El Gran Dictador"))
+
+([ia2_Class20013] of  culto
+
+	(NombreD "Chaplin"))
+
+([ia2_Class20014] of  Actor
+
+	(NombreA "Charles Chaplin"))
+
+([ia2_Class20015] of  Actor
+
+	(NombreA "Tom Hulce"))
+
+([ia2_Class20016] of  alternativo
+
+	(NombreD "Milos Forman"))
+
+([ia2_Class20017] of  Pelicula
+
+	(ActoresP [ia2_Class20019])
+	(CalificacionP [ia2_Class36])
+	(DirectorP [ia2_Class20018])
+	(Duracion 120)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class53])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "El diario de Noa"))
+
+([ia2_Class20018] of  famoso
+
+	(NombreD "Nick Cassavetes"))
+
+([ia2_Class20019] of  Actor
+
+	(NombreA "James Garner"))
+
+([ia2_Class20020] of  Pelicula
+
+	(ActoresP [ia2_Class20021])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class1])
+	(Duracion 100)
+	(EpocaP [ia2_Class100])
+	(GeneroP [ia2_Class48])
+	(IdiomaP [ia2_Class74])
+	(NacionalidadP [ia2_Class59])
+	(Titulo "La Chevre"))
+
+([ia2_Class20021] of  Actor
+
+	(NombreA "Gerard Depardieu"))
+
+([ia2_Class20022] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class1])
+	(Duracion 100)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Actualidad])
+	(Titulo "Jackass 3d"))
+
+([ia2_Class20023] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class20024])
+	(Duracion 120)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Politica])
+	(Titulo "Farenheit 911"))
+
+([ia2_Class20024] of  famoso
+
+	(NombreD "Michael Moore"))
+
+([ia2_Class20025] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class37])
+	(Duracion 120)
+	(EpocaD [ia2_Class46])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Arte])
+	(Titulo "This is it"))
+
+([ia2_Class20026] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class20024])
+	(Duracion 120)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Historia])
+	(Titulo "Bowling for colombine"))
+
+([ia2_Class20027] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class1])
+	(Duracion 180)
+	(EpocaD [ia2_Class34])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Historia])
+	(Titulo "La historia de los borbones"))
+
+([ia2_Class20028] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class1])
+	(Duracion 180)
+	(EpocaD [ia2_Class100])
+	(IdiomaD [ia2_Class74])
+	(NacionalidadD [ia2_Class59])
+	(TematicaD [Historia])
+	(Titulo "La Revolution Francaise"))
+
+([ia2_Class20029] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class37])
+	(Duracion 120)
+	(EpocaD [ia2_Class100])
+	(IdiomaD [ia2_Class73])
+	(NacionalidadD [ia2_Class63])
+	(TematicaD [Economia])
+	(Titulo "nihon no reikinjutsuki"))
+
+([ia2_Class20030] of  Documental
+
+	(CalificacionD [ia2_Class36])
+	(DirectorD [ia2_Class20031])
+	(Duracion 120)
+	(EpocaD [ia2_Class46])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Actualidad])
+	(Titulo "Bebes"))
+
+([ia2_Class20031] of  alternativo
+
+	(NombreD "tomas balmes"))
+
+([ia2_Class20032] of  Documental
+
+	(CalificacionD [ia2_Class64])
+	(DirectorD [ia2_Class20033])
+	(Duracion 180)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class62])
+	(TematicaD [Ciencia])
+	(Titulo "Introduccion a la fisica cuantica 2"))
+
+([ia2_Class20033] of  desconocido
+
+	(NombreD "fred alan wolf"))
+
+([ia2_Class20034] of  Documental
+
+	(DirectorD [ia2_Class1])
+	(Duracion 180)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class72])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Historia])
+	(Titulo "historia catalana"))
+
+([ia2_Class20035] of  Serie
+
+	(ActorS [ia2_Class19])
+	(CalificacionS [ia2_Class30])
+	(DirectorS [ia2_Class37])
+	(Duracion 30)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class51])
+	(IdiomaS [ia2_Class71])
+	(NacionalidadS [ia2_Class58])
+	(Titulo "Fisica o quimica"))
+
+([ia2_Class20036] of  Serie
+
+	(ActorS [ia2_Class20037])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class1])
+	(Duracion 20)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class48])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Big bang theory"))
+
+([ia2_Class20037] of  Actor
+
+	(NombreA "Jim Parsons"))
+
+([ia2_Class20038] of  Serie
+
+	(ActorS [ia2_Class20039])
+	(CalificacionS [ia2_Class30])
+	(DirectorS [ia2_Class37])
+	(Duracion 20)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class51])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "True Blood"))
+
+([ia2_Class20039] of  Actor
+
+	(NombreA "anna paquin"))
+
+([ia2_Class20040] of  Serie
+
+	(ActorS [ia2_Class20041])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 50)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class56])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Dexter"))
+
+([ia2_Class20041] of  Actor
+
+	(NombreA "Michael Hall"))
+
+([ia2_Class20042] of  Serie
+
+	(ActorS [ia2_Class20043])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class48])
+	(IdiomaS [ia2_Class72])
+	(NacionalidadS [ia2_Class58])
+	(Titulo "Plats Bruts"))
+
+([ia2_Class20043] of  Actor
+
+	(NombreA "Joel Juan"))
+
+([ia2_Class20044] of  Serie
+
+	(ActorS [ia2_Class20045])
+	(CalificacionS [ia2_Class30])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class52])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Sobrenatural"))
+
+([ia2_Class20045] of  Actor
+
+	(NombreA "Jensen Ackles"))
+
+([ia2_Class20046] of  Serie
+
+	(ActorS [ia2_Class20047])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class47])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Anatomia de grey"))
+
+([ia2_Class20047] of  Actor
+
+	(NombreA "Ellen Pompeo"))
+
+([ia2_Class20048] of  Serie
+
+	(ActorS [ia2_Class5])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class34])
+	(GeneroS [ia2_Class47])
+	(IdiomaS [ia2_Class74])
+	(NacionalidadS [ia2_Class59])
+	(Titulo "Age Sensible"))
+
+([ia2_Class20049] of  Serie
+
+	(ActorS [ia2_Class20050])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class56])
+	(IdiomaS [ia2_Class73])
+	(NacionalidadS [ia2_Class60])
+	(Titulo "In Treatment"))
+
+([ia2_Class20050] of  Actor
+
+	(NombreA "Gabriel Byrne"))
+
+([ia2_Class20051] of  Serie
+
+	(ActorS [ia2_Class5])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class1])
+	(Duracion 20)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class4])
+	(IdiomaS [ia2_Class73])
+	(NacionalidadS [ia2_Class63])
+	(Titulo "Nurarihyon no Mago"))
+
+([ia2_Class20052] of  Serie
+
+	(ActorS [ia2_Class5])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class37])
+	(Duracion 40)
+	(EpocaS [ia2_Class45])
+	(GeneroS [ia2_Class53])
+	(IdiomaS [ia2_Class74])
+	(NacionalidadS [ia2_Class59])
+	(Titulo "ecole de pouvoir"))
+
+([ia2_Class20053] of  Pelicula
+
+	(ActoresP [ia2_Class20050])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class20054])
+	(Duracion 110)
+	(EpocaP [ia2_Class34])
+	(GeneroP [ia2_Class51])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Stigmata"))
+
+([ia2_Class20054] of  alternativo
+
+	(NombreD "Rupert Walnwright"))
+
+([ia2_Class21] of  Actor
+
+	(NombreA "Ben Affleck"))
+
+([ia2_Class22] of  Actor
+
+	(NombreA "Bruce Willis"))
+
+([ia2_Class23] of  Actor
+
+	(NombreA "Brad Pitt"))
+
+([ia2_Class24] of  Actor
+
+	(NombreA "Clint Eastwood"))
+
+([ia2_Class25] of  Actor
+
+	(NombreA "Edurado Noriega"))
+
+([ia2_Class26] of  Actor
+
+	(NombreA "Edward Norton"))
+
+([ia2_Class27] of  Actor
+
+	(NombreA "Harrison Ford"))
+
+([ia2_Class3] of  Serie
+
+	(ActorS [ia2_Class5])
+	(CalificacionS [ia2_Class30])
+	(DirectorS [ia2_Class1])
+	(Duracion 20)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class4])
+	(IdiomaS [ia2_Class73])
+	(NacionalidadS [ia2_Class63])
+	(Titulo "Deadman Wonderland"))
+
+([ia2_Class30] of  Calificacion
+
+	(edad_minima 18))
+
+([ia2_Class33] of  Documental
+
+	(CalificacionD [ia2_Class36])
+	(DirectorD [ia2_Class37])
+	(Duracion 60)
+	(EpocaD [ia2_Class34])
+	(IdiomaD [ia2_Class71])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Naturaleza])
+	(Titulo "Selva Africana"))
+
+([ia2_Class34] of  Epoca
+
+	(decada "1990"))
+
+([ia2_Class36] of  Calificacion
+
+	(edad_minima 0))
+
+([ia2_Class37] of  desconocido
+
+	(NombreD "Indefinido"))
+
+([ia2_Class38] of  desconocido
+
+	(NombreD "David Lynch"))
+
+([ia2_Class39] of  desconocido
+
+	(NombreD "David Fincher"))
+
+([ia2_Class4] of  Genero
+
+	(genero "Animacion"))
+
+([ia2_Class40] of  clasico
+
+	(NombreD "Steven Soderbergh"))
+
+([ia2_Class41] of  famoso
+
+	(NombreD "Tarantino"))
+
+([ia2_Class42] of  clasico
+
+	(NombreD "Lukas Moodysson"))
+
+([ia2_Class43] of  alternativo
+
+	(NombreD "Almodóvar"))
+
+([ia2_Class44] of  Epoca
+
+	(decada "1960"))
+
+([ia2_Class45] of  Epoca
+
+	(decada "2000"))
+
+([ia2_Class46] of  Epoca
+
+	(decada "2010"))
+
+([ia2_Class47] of  Genero
+
+	(genero "Drama"))
+
+([ia2_Class48] of  Genero
+
+	(genero "Comedia"))
+
+([ia2_Class49] of  Genero
+
+	(genero "Accion"))
+
+([ia2_Class5] of  Actor
+
+	(NombreA "Ninguno"))
+
+([ia2_Class50] of  Genero
+
+	(genero "Aventura"))
+
+([ia2_Class51] of  Genero
+
+	(genero "Terror"))
+
+([ia2_Class52] of  Genero
+
+	(genero "Ciencia Ficcion"))
+
+([ia2_Class53] of  Genero
+
+	(genero "romantico"))
+
+([ia2_Class54] of  Genero
+
+	(genero "musical"))
+
+([ia2_Class56] of  Genero
+
+	(genero "Suspense"))
+
+([ia2_Class58] of  Nacionalidad
+
+	(Pais "Espanola"))
+
+([ia2_Class59] of  Nacionalidad
+
+	(Pais "Francesa"))
+
+([ia2_Class6] of  Serie
+
+	(ActorS [ia2_Class5])
+	(CalificacionS [ia2_Class64])
+	(DirectorS [ia2_Class1])
+	(Duracion 25)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class4])
+	(IdiomaS [ia2_Class73])
+	(NacionalidadS [ia2_Class63])
+	(Titulo "Ao no Excorcist"))
+
+([ia2_Class60] of  Nacionalidad
+
+	(Pais "Inglesa"))
+
+([ia2_Class62] of  Nacionalidad
+
+	(Pais "EEUU"))
+
+([ia2_Class63] of  Nacionalidad
+
+	(Pais "Japonesa"))
+
+([ia2_Class64] of  Calificacion
+
+	(edad_minima 10))
+
+([ia2_Class66] of  Pelicula
+
+	(ActoresP [ia2_Class18])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class68])
+	(Duracion 137)
+	(EpocaP [ia2_Class46])
+	(GeneroP [ia2_Class49])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Piratas del Caribe"))
+
+([ia2_Class68] of  alternativo
+
+	(NombreD "Rob Marshall"))
+
+([ia2_Class7] of  Serie
+
+	(ActorS [ia2_Class8])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class82])
+	(Duracion 30)
+	(EpocaS [ia2_Class100])
+	(GeneroS [ia2_Class49])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "A Team"))
+
+([ia2_Class71] of  Idioma
+
+	(lengua "Castellano"))
+
+([ia2_Class72] of  Idioma
+
+	(lengua "catalan"))
+
+([ia2_Class73] of  Idioma
+
+	(lengua "Ingles"))
+
+([ia2_Class74] of  Idioma
+
+	(lengua "Frances"))
+
+([ia2_Class76] of  Documental
+
+	(CalificacionD [ia2_Class36])
+	(DirectorD [ia2_Class37])
+	(Duracion 45)
+	(EpocaD [ia2_Class45])
+	(IdiomaD [ia2_Class72])
+	(NacionalidadD [ia2_Class58])
+	(TematicaD [Actualidad])
+	(Titulo "Vida marina"))
+
+([ia2_Class79] of  Serie
+
+	(ActorS [ia2_Class22])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class37])
+	(Duracion 45)
+	(EpocaS [ia2_Class46])
+	(GeneroS [ia2_Class50])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class73]
+		[ia2_Class74])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Lost"))
+
+([ia2_Class8] of  Actor
+
+	(NombreA "Barrakas"))
+
+([ia2_Class81] of  Pelicula
+
+	(ActoresP
+		[ia2_Class83]
+		[ia2_Class84])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class82])
+	(Duracion 115)
+	(EpocaP [ia2_Class46])
+	(GeneroP [ia2_Class50])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Thor"))
+
+([ia2_Class82] of  culto
+
+	(NombreD "Kenneth Branagh"))
+
+([ia2_Class83] of  Actor
+
+	(NombreA "Anthony Hopkins"))
+
+([ia2_Class84] of  Actor
+
+	(NombreA "Natalie Portman"))
+
+([ia2_Class85] of  Pelicula
+
+	(ActoresP [ia2_Class87])
+	(CalificacionP [ia2_Class36])
+	(DirectorP [ia2_Class86])
+	(Duracion 194)
+	(EpocaP [ia2_Class34])
+	(GeneroP [ia2_Class53])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "titanic"))
+
+([ia2_Class86] of  famoso
+
+	(NombreD "James Cameron"))
+
+([ia2_Class87] of  Actor
+
+	(NombreA "Leonardo Di Caprio"))
+
+([ia2_Class89] of  Pelicula
+
+	(ActoresP [ia2_Class91])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class43])
+	(Duracion 161)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class52])
+	(IdiomaP
+		[ia2_Class71]
+		[ia2_Class73])
+	(NacionalidadP [ia2_Class62])
+	(Titulo "Avatar"))
+
+([ia2_Class9] of  Serie
+
+	(ActorS [ia2_Class10011])
+	(CalificacionS [ia2_Class36])
+	(DirectorS [ia2_Class10])
+	(Duracion 25)
+	(EpocaS [ia2_Class34])
+	(GeneroS [ia2_Class49])
+	(IdiomaS
+		[ia2_Class71]
+		[ia2_Class72]
+		[ia2_Class74]
+		[ia2_Class73])
+	(NacionalidadS [ia2_Class62])
+	(Titulo "Mc Gyver"))
+
+([ia2_Class91] of  Actor
+
+	(NombreA "Zoe Saldana"))
+
+([ia2_Class92] of  Pelicula
+
+	(ActoresP [ia2_Class94])
+	(CalificacionP [ia2_Class36])
+	(DirectorP [ia2_Class93])
+	(Duracion 120)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class48])
+	(NacionalidadP [ia2_Class59])
+	(Titulo "Amelie"))
+
+([ia2_Class93] of  clasico
+
+	(NombreD "Jean-Pierre Jeunet"))
+
+([ia2_Class94] of  Actor
+
+	(NombreA "Audrey Tautou"))
+
+([ia2_Class95] of  Pelicula
+
+	(ActoresP
+		[ia2_Class97]
+		[ia2_Class98])
+	(CalificacionP [ia2_Class64])
+	(DirectorP [ia2_Class96])
+	(Duracion 125)
+	(EpocaP [ia2_Class45])
+	(GeneroP [ia2_Class47])
+	(IdiomaP [ia2_Class71])
+	(NacionalidadP [ia2_Class58])
+	(Titulo "Mar adentro"))
+
+([ia2_Class96] of  alternativo
+
+	(NombreD "Alejandro Amenabar"))
+
+([ia2_Class97] of  Actor
+
+	(NombreA "Javier Bardem"))
+
+([ia2_Class98] of  Actor
+
+	(NombreA "Belen Rueda"))
+
+([ia2_Class99] of  Pelicula
+
+	(ActoresP [ia2_Class26])
+	(CalificacionP [ia2_Class36])
+	(DirectorP [ia2_Class37])
+	(Duracion 93)
+	(EpocaP [ia2_Class100])
+	(GeneroP [ia2_Class48])
+	(IdiomaP
+		[ia2_Class73]
+		[ia2_Class71])
+	(NacionalidadP [ia2_Class60])
+	(Titulo "La vida de Brian"))
+
+([Naturaleza] of  Tematica
+)
+
+([Politica] of  Tematica
+)
